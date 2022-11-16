@@ -1,5 +1,8 @@
 Rencana pembuatan website ecommerce :
 - Ecommerce diecast
   * Menggunakan typescript
+- Ecommerce kue
+  * Menggunakan typescript
 - Ecommerce buku
-- Ecommerce sepatu
+- Ecommerce baju
+
