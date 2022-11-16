@@ -1,4 +1,5 @@
 Membuat website :
+- Pengenalan diri
 - Monitoring pelanggaran siswa
 - Terima dan tanggap keluhan masyarakat 
 - Sistem penggajian
