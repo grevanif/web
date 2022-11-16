@@ -3,3 +3,5 @@ Rencana pembuatan website ecommerce :
   * Menggunakan typescript
 - Ecommerce kue
   * Menggunakan typescript
+- Ecommerce buku
+- Ecommerce baju
