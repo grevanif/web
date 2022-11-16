@@ -1,0 +1,5 @@
+Membuat website :
+- Monitoring pelanggaran siswa
+- Terima dan tanggap keluhan masyarakat 
+- Sistem penggajian
+- Ecommerce
